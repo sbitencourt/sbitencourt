@@ -4,6 +4,15 @@
 
 I’m a data professional passionate about building scalable, reliable data pipelines and transforming raw data into analytics-ready datasets.
 
+---
+
+## 🚀 Projects
+
+### Data Engineering & Pipelines
+- 📰 **[Event-Driven Crypto News Tracker](https://github.com/sbitencourt/jq-api-news-tracker)**: A server-side data acquisition pipeline designed to continuously monitor global news headlines for US politics and cryptocurrency markets. Built entirely with **Bash** and **jq**, it runs autonomously via **Crontab**, leveraging **cURL** for API interaction to collect, parse, and store volatile, time-sensitive information efficiently.
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="left">
