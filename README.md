@@ -37,7 +37,7 @@ I’m a data professional passionate about building scalable, reliable data pipe
   </a>
   
   <a href="https://achieve.snowflake.com/67f945f4-aef5-48da-9d7d-e407c64cd46b" target="_blank" style="margin-left: 10px;">
-    <img src="https://cbtproxy.com/_next/image?url=http%3A%2F%2Fstrapi.cbtproxy.com%3A1337%2Fuploads%2Fsnowpro_associate_platform_223731a75d.png&w=256&q=75" height="180" alt="SnowPro Core"/>
+    <img src="https://templates.images.credential.net/17339356066964529354080384665120.png" height="180" alt="SnowPro Associate"/>
   </a>
 </div>
 
