@@ -2,7 +2,7 @@
 
 🚀 Data Engineer | Python • SQL • Power BI • Snowflake • Databricks
 
-I’m a data professional passionate about building scalable, reliable data pipelines and transforming raw data into analytics-ready datasets.
+Data professional dedicated to designing reliable data ecosystems and streamlining the journey from raw data to analytics-ready assets.
 
 ---
 
