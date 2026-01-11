@@ -1,4 +1,16 @@
-<h1 align="center">Hi, I'm Sarah 👋</h1>
+<h1 align="left">👋 Hi, I'm Sarah</h1>
+
+🚀 Data Engineer | Python • SQL • Power BI • Snowflake • Databricks
+
+I’m a data professional passionate about building scalable, reliable data pipelines and transforming raw data into analytics-ready datasets.
+
+🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+</div>
 
 <!--
 ### 🛠️ Languages & Tools
