@@ -4,6 +4,8 @@
 
 Data professional dedicated to designing reliable data ecosystems and streamlining the journey from raw data to analytics-ready assets.
 
+📫 Learn about my experience: [Linkedin](https://www.linkedin.com/in/sarah-bitencourtt/)
+
 ---
 
 ## 🚀 Projects
