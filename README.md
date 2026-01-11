@@ -33,11 +33,11 @@ I’m a data professional passionate about building scalable, reliable data pipe
 <br/>
 <div align="left">
   <a href="https://learn.microsoft.com/pt-br/users/sarahcristinasilvabitencourt-1981/credentials/80a9dfc9bae232f6" target="_blank">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="180" alt="Microsoft Certified Associate"/>
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="150" alt="Microsoft Certified Associate"/>
   </a>
   
   <a href="https://achieve.snowflake.com/67f945f4-aef5-48da-9d7d-e407c64cd46b" target="_blank" style="margin-left: 10px;">
-    <img src="https://templates.images.credential.net/17339356066964529354080384665120.png" height="180" alt="SnowPro Associate"/>
+    <img src="https://templates.images.credential.net/17339356066964529354080384665120.png" height="150" alt="SnowPro Associate"/>
   </a>
 </div>
 
