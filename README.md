@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi, I'm Sarah</h1>
 
-🚀 Data Engineer | Python • SQL • Power BI • Snowflake • Databricks
+🚀 Data Engineer | Analytics Engineer | Python • SQL • Power BI • Snowflake • Databricks
 
 Data professional dedicated to designing reliable data ecosystems and streamlining the journey from raw data to analytics-ready assets.
 
