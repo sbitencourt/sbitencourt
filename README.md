@@ -11,7 +11,7 @@ Data professional dedicated to designing reliable data ecosystems and streamlini
 ## 🚀 Projects
 
 ### Data Engineering & Pipelines
-- 📰 **[Event-Driven Crypto News Tracker](https://github.com/sbitencourt/jq-api-news-tracker)**: A server-side data acquisition pipeline designed to continuously monitor global news headlines for US politics and cryptocurrency markets. Built entirely with **Bash** and **jq**, it runs autonomously via **Crontab**, leveraging **cURL** for API interaction to collect, parse, and store volatile, time-sensitive information efficiently.
+- 📰 **[Event-Driven Crypto News Tracker](https://github.com/sbitencourt/jq-api-news-tracker)**: Server-side data pipeline that continuously monitors global news for US politics and cryptocurrency markets. Built with **Bash** and **Python**, it runs autonomously via **Crontab**, uses **cURL** for API ingestion, and persists volatile, time-sensitive data in **MongoDB** for downstream analysis and alerting.
 
 ### AI & Large Language Models
 - 🤖 **[Generative AI-Powered QA System for UNIVESP](https://github.com/sbitencourt/rag-pedagogical-qa)**: A RAG-based backend system built with **Python**, **LangChain**, and **FAISS**. Designed to retrieve technical curriculum information from UNIVESP's academic documents, combining vector similarity search with generative models to provide accurate, context-aware answers.
