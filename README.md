@@ -39,9 +39,10 @@ Data professional dedicated to designing reliable data ecosystems and streamlini
 
 <br/>
 <div align="left">
-  <a href="https://learn.microsoft.com/pt-br/users/sarahcristinasilvabitencourt-1981/credentials/80a9dfc9bae232f6" target="_blank"><img src="https://miro.medium.com/0*7R_2ESdGD7chgOJT.png" height="150" alt="Microsoft Certified Power BI Data Analyst Associate"/></a>
+    <a href="https://www.credly.com/badges/76285ea0-7e5b-4b29-925d-1858c58ed812/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="150" alt="AWS Certified Cloud Practitioner" style="margin-left: 10px;"/></a>
   <a href="https://achieve.snowflake.com/67f945f4-aef5-48da-9d7d-e407c64cd46b" target="_blank"><img src="https://templates.images.credential.net/17339356066964529354080384665120.png" height="150" alt="SnowPro Associate" style="margin-left: 10px;"/></a>
-  <a href="https://www.credly.com/badges/76285ea0-7e5b-4b29-925d-1858c58ed812/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="150" alt="AWS Certified Cloud Practitioner" style="margin-left: 10px;"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/sarahcristinasilvabitencourt-1981/credentials/80a9dfc9bae232f6" target="_blank"><img src="https://miro.medium.com/0*7R_2ESdGD7chgOJT.png" height="150" alt="Microsoft Certified Power BI Data Analyst Associate"/></a>
+  
 </div>
 
 <!--
