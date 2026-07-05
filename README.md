@@ -35,6 +35,7 @@ Data professional dedicated to designing reliable data ecosystems and streamlini
     <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" alt="langchain" width="40" height="40"/></a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/numpy/images/de18fd96-eca8-46f4-b260-6c56f4d02ca3.svg" alt="numpy" width="40" height="40"/></a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/fastapi-icon.svg" alt="fastapi" width="40" height="40"/></a>
 </p>
 
 <br/>
